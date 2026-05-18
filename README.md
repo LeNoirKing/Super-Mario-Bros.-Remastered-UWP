@@ -1,4 +1,4 @@
-# Super Mario Bros Remastered
+# Super Mario Bros Remastered UWP
 <img width="3840" height="2160" alt="SMB1R_BANNER_printable" src="https://github.com/user-attachments/assets/ed0e97a8-614a-44e2-b69f-2654fca6196c" />
 
 A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!
